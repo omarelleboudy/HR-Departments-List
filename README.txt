@@ -1,11 +1,15 @@
-First, make sure to have mongodb installed.
+This is a very basic, very simple MERN stack application with CRUD Operations.
 
-Next, run mongod.
+To Run this application:
 
-Make sure the database is connected on port 27017.
+	First, make sure to have mongodb installed.
 
-Navigate to the backend folder and run :  nodemon server.js
+	Next, run mongod.
 
-Navigate to the frontend folder and run :  npm start
+	Make sure the database is connected on port 27017.
 
-Wait for the web application to launch and try it out.
+	Navigate to the backend folder and run :  nodemon server.js
+
+	Navigate to the frontend folder and run :  npm start
+
+	Wait for the web application to launch and try it out.
