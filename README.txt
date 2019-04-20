@@ -1,3 +1,5 @@
+!!! MAKE SURE THAT ALL FRONT AND BACK END DEPENDECIES ARE INSTALLED !!!
+
 This is a very basic, very simple MERN stack application with CRUD Operations.
 
 To Run this application:
