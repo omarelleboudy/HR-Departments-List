@@ -1,3 +1,6 @@
+!!!!!!!!MAKE SURE TO HAVE ALL DEPENDENCIES INSTALLED, OTHERWISE IT WON'T RUN AS REQUIRED!!!!!!!!
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
