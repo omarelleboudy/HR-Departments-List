@@ -1,5 +1,5 @@
 !!!!!!!!MAKE SURE TO HAVE ALL DEPENDENCIES INSTALLED, OTHERWISE IT WON'T RUN AS REQUIRED!!!!!!!!
-
+RUN: npm install   inside the folder
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
