@@ -1,4 +1,5 @@
 !!! MAKE SURE THAT ALL FRONT AND BACK END DEPENDECIES ARE INSTALLED !!!
+Make sure to run npm install inside the front-end folder to install all the required dependencies.
 
 This is a very basic, very simple MERN stack application with CRUD Operations.
 
